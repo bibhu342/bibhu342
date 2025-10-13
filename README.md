@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Bibhudendu+Behera+%7C+Python+%E2%80%A2+ML+%E2%80%A2+GenAI" alt="Bibhu Banner">
+  <img src="banner.png" alt="Bibhudendu Behera | Aspiring Google AI Engineer" width="100%" />
 </p>
 
 # 👋 Hi, I'm Bibhudendu Behera  
-
-🚀 **Aspiring Google AI Engineer** | 🧠 Lifelong Learner | 💻 Passionate about Data & AI  
+🚀 From Customer Support to Code | Aspiring Google AI Engineer  
+🧠 Python • SQL • ML • DL • GenAI • MLOps | 🏗️ Building in Public
 
 I’m on a **180-Day Google AI Engineer Sankalpa Journey** to build a solid foundation in Python, DSA, ML/AI, and freelancing.  
 This profile is where I share my learning path, projects, and progress as I move closer to my dream role.  

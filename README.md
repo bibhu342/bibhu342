@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1200x300.png?text=Bibhudendu+Behera+%7C+Python+%E2%80%A2+ML+%E2%80%A2+GenAI" alt="Bibhu Banner">
+</p>
+
 # 👋 Hi, I'm Bibhudendu Behera  
 
 🚀 **Aspiring Google AI Engineer** | 🧠 Lifelong Learner | 💻 Passionate about Data & AI  

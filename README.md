@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Bibhudendu Behera  
 
-<!--
-**bibhu342/bibhu342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring **Google AI Engineer** | 📊 Data Enthusiast | 🧠 Lifelong Learner  
 
-Here are some ideas to get you started:
+- 💻 Passionate about Python, Pandas, NumPy, SQL & AI
+- 🧠 Currently building my foundations in **ML/AI & DSA**
+- 🌱 Learning daily as part of my **180-Day Google AI Engineer Sankalpa Plan**
+- 🧑‍💻 Open to collaborations on AI & data-driven projects
+- 🐾 Dog lover 🐶 (they make my day brighter ✨)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)  
+📧 bibhu342@gmail.com
+---
+
+## 📊 GitHub Stats
+
+![Bibhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibhu342&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibhu342&layout=compact&theme=tokyonight)
+
+---
+
+

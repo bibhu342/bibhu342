@@ -3,11 +3,9 @@
 </p>
 
 # 👋 Hi, I'm Bibhudendu Behera  
-🚀 From Customer Support to Code | Aspiring Google AI Engineer  
-🧠 Python • SQL • ML • DL • GenAI • MLOps | 🏗️ Building in Public
 
-I’m on a **180-Day Google AI Engineer Sankalpa Journey** to build a solid foundation in Python, DSA, ML/AI, and freelancing.  
-This profile is where I share my learning path, projects, and progress as I move closer to my dream role.  
+Python Engineer | Data Automation & ML | Building production-grade tools  
+Portfolio: https://bibhu342.github.io/bibhu-portfolio/
 
 ---
 

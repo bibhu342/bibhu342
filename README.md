@@ -43,6 +43,13 @@ This profile is where I share my learning path, projects, and progress as I move
 
 ---
 
+## 🌐 My Portfolio  
+https://bibhu342.github.io/bibhu-portfolio/
+
+Showcasing my production-grade automation tools, Python engineering work, and freelancing projects.
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bibhudendu-behera-b5375b5b)  
